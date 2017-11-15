@@ -1,0 +1,4 @@
+run scripts to get the message that is different
+npm install
+node crawler.js > toto
+node readmes.js

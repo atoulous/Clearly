@@ -1,0 +1,6 @@
+after sql injection i could get access to db_default and to the hashed_password.
+  searching for the hash i found: shadow. log as root (password: shadow)
+      apparently shadow is one of the most common and unsafe passwords
+OR
+
+brut force with shell script
