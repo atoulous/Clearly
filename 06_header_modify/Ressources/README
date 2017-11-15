@@ -1,0 +1,8 @@
+On the Pellican page
+
+With the extension Modify Headers
+
+Add Referer: https://www.nsa.gov/
+Add User-Agent: ft_bornToSec
+
+Check the change with Live HTTP Header

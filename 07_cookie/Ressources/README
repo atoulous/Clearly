@@ -1,0 +1,9 @@
+With Modify Header
+
+Modify Cookie
+
+Cookie: I_am_admin=68934a3e9455fa72420237eb05902327 => Md5 => FALSE
+
+by
+
+Cookie: I_am_admin=b326b5062b2f0e69046810717534cb09 => Md5 => TRUE

@@ -1,0 +1,3 @@
+On the home page, we can see the website makes redirections using GET arguments "page=redirect&site" (social network links)
+
+Type {your url}/index.php?page=redirect&site=something
