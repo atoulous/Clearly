@@ -1,3 +1,3 @@
 Go on {your URL}?page=feedback page
-
-put the world 'script' in one of the two input
+after wasting lot of time searching for this flaw, trying with <script>alert(123)</script> did not work
+realize that the word script was the answer (!!!!)

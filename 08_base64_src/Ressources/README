@@ -1,3 +1,5 @@
+trying for this kind of flaw: https://blog.clever-age.com/fr/2014/10/21/owasp-local-remote-file-inclusion-lfi-rfi/
+
 Go to the {{your ip adress}}/?page=media&src=nsa page.
 
 Change the src "nsa" by a javascript code, with MIME specified text/html, encode in base 64.

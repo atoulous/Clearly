@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.17.1",
-    "lodash": "^4.17.4",
-    "uri": "^0.1.0"
+    "lodash": "^4.17.4"
   }
 }
